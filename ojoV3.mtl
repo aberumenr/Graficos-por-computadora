@@ -59,7 +59,7 @@ Pc 0.000000
 Pcr 0.030000
 aniso 0.000000
 anisor 0.000000
-map_Kd C:/Users/alexa/Downloads/Iris1.jpg
+map_Kd https://raw.githubusercontent.com/aberumenr/Graficos-por-computadora/main/Iris1.jpg
 
 newmtl scleramaterial
 Kd 0.800000 0.800000 0.800000
